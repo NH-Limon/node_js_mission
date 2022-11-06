@@ -1,0 +1,1 @@
+* The job of a javascript engine whether it is the v8 or anything is to convert / compile the javascript code into machine code.
